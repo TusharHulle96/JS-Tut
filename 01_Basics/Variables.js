@@ -13,4 +13,3 @@ let accountstate;
 console.log(accountId); 
 
 console.table([accountId, accountEmail,accountPassword,accontCity,accountstate])   
-
