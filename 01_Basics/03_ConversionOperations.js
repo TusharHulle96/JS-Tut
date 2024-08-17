@@ -13,9 +13,23 @@ let valueInNumber = Number(score)
 
 let isLoggedIn = 1 
 let booleanIsLoggedIn = Boolean(isLoggedIn)
-console.log(booleanIsLoggedIn)
+// console.log(booleanIsLoggedIn)
 
 let somenumber = 33 
 
 let stringNumber = String(somenumber) 
-console.log(typeof  stringNumber); 
+// console.log(typeof  stringNumber); 
+ 
+
+// ***************** OPerations *************//
+let value = 3 
+let negvalue = -value
+// console.log(negvalue) 
+
+let num1 , num2 , num3 ;
+
+ num1 = num2 = num3 = 2 + 2 
+
+let gameCounter = 100 
+++gameCounter; 
+console.log(gameCounter);  
